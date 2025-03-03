@@ -1,0 +1,46 @@
+body{
+    margin: 10px
+}
+main{
+    margin: 10px;
+    text-align-last: center;
+    background-color: sandybrown;
+    border: solid;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+}
+H3{
+    text-align-last: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: cadetblue;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+  color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+   background-color: darkgray;
+}
+.navbar li{
+    float: left;
+    text-align: center
+}
+#search{
+    width: 400px;
+    padding: 5px;
+    border-radius: 25px;
+    border: none;
+    font-size: 18px;
+    margin: 15px;
+}
+figure {text-align-last: center;}
